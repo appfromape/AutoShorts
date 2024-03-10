@@ -3,7 +3,7 @@
 According to MPVV1 (MoneyPrinter Version 1) & MPV2 (MoneyPrinter Version 2), adapted to use the edge-tts module to generate Traditional Chinese Shorts videos.
 
 > **Note:** AutoShorts needs Python 3.9 up to function effectively.
-> Watch the YouTube video [here]()
+> Watch the YouTube video [here](https://youtu.be/AuBiEZIjNww)
 
 ## Features
 
