@@ -1,6 +1,5 @@
 __pycache__
 .env
-temp/*
 sounds/*
 output/*
 images/*
@@ -15,4 +14,3 @@ client_secret.json
 main.py-oauth2.json
 .DS_Store
 Backend/output*
-Songs/
